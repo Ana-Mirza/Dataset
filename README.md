@@ -1,4 +1,4 @@
-# Dataset for C-Step-Counter
+# Dataset for C-Fitness-Tracking
 
 This repo contains the raw data used in the optimization process of the C-Step-Counter algorithm implemented on [Hacktor Watch](https://github.com/dantudose/open-smartwatch).
 The optimization was done using the script from [C-optimize-variables](https://github.com/Ana-Mirza/C-optimize-variables).

@@ -1,0 +1,5 @@
+person,gender,age,,height_cm,weight_kg
+"person1","F",22,166,50
+"person2","M",19,189,62
+"person3","F",17,166,47
+"person4","F",12,164,40
